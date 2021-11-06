@@ -9,3 +9,10 @@ description: "关于xd！ | 这里是 @Tgotp 的个人博客，欢迎共同摸�
 keyword: ""
 url: "https://Tgotp.github.io"              # your host, for absolute URL
 baseurl: ""              # for example, '/blog' if your blog hosted on 'host/blog'
+
+# SNS settings
+RSS: false
+weibo_username:     Tgotp
+zhihu_username:     Tgotp
+github_username:    Tgotp
+twitter_username:   Tgotp
